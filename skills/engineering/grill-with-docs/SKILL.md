@@ -1,7 +1,9 @@
 ---
 name: grill-with-docs
-description: A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.
+description: Uma entrevista implacável para afiar um plano ou design, criando também a documentação (ADRs e glossário), conduzida em português.
 disable-model-invocation: true
 ---
+
+Conduza toda a conversa em **português**, incluindo a documentação gerada. Só responda ou traduza o conteúdo para o inglês se o usuário pedir explicitamente.
 
 Call the Skill tool twice, for "grilling" and "domain-modeling".
